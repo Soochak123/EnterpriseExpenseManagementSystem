@@ -2,18 +2,6 @@
 
 This is a React-based project for managing enterprise expenses efficiently. Follow the instructions below to clone, install dependencies, and run the project.
 
-## Cloning the Repository
-
-```sh
-git clone https://github.com/srprajwal/EnterpriseExpenseManagementSystem.git
-```
-
-Navigate into the project directory:
-
-```sh
-cd EnterpriseExpenseManagementSystem/frontend
-```
-
 ## Installing Dependencies
 
 Run the following command to install the required dependencies:
